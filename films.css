@@ -30,9 +30,9 @@ aside{
 
 aside>section {
   float: left;
-  width: 250px;
+  width: 200px;
   height: 350px;
-  margin: 30px ;
+  margin: 25px ;
 }
 
 article>p {
