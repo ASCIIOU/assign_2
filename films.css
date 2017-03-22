@@ -18,6 +18,10 @@ body{
     flex: 1;
 }
 
+hr{
+    font-size: 16px;
+}
+
 aside{
     margin: 0px 25px;
     -webkit-flex: 1;
