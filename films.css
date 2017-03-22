@@ -1,0 +1,107 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 新細明體, serif;
+}
+
+#main{
+    display: flex;
+}
+
+#paragraph{
+    margin: 0 25px;
+    -webkit-flex: 1.5;
+    flex: 1.5;
+}
+
+aside{
+    margin: 1px 25px;
+    -webkit-flex: 1;
+    flex: 1;
+}
+
+aside>section {
+  float: left;
+  width: 200px;
+  height: 350px;
+  margin: 25px ;
+}
+
+article>p {
+    font-size: 16px;
+    padding:10px 0;
+    line-height: 25px;
+}
+
+aside section a img:hover{
+    opacity: 0.3;
+}
+
+aside section>img{
+    float: left;
+    margin: 0.5em;
+}
+
+aside section time{
+    clear: left;
+    display: block;
+}
+
+aside section date strong{
+    font-size: 2.5em;
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: orange;
+}
+
+.fa-hand-o-up{
+  float: right;
+}
+
+footer address{
+    display: inline-block;
+}
+
+footer ul{
+    display: inline-block;
+    width: 600px;
+}
+
+footer ul li{
+    float: left;
+    list-style: none;
+}
+
+.nextline{
+    clear: left;
+}
+
+.fa-facebook-square{
+    margin-left: 5px;
+}
+
+#information{
+    display: flex;
+}
+
+#information section{
+    margin: 0 25px;
+    -webkit-flex: 1;
+    flex: 1;
+}
