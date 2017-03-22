@@ -13,7 +13,7 @@ body{
 }
 
 #paragraph{
-    margin: 0px;
+    margin: 0 25px;
     -webkit-flex: 1;
     flex: 1;
 }
@@ -23,7 +23,7 @@ hr{
 }
 
 aside{
-    margin: 0px;
+    margin: 0 25px;
     -webkit-flex: 1;
     flex: 1;
 }
