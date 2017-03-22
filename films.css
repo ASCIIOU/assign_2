@@ -13,17 +13,13 @@ body{
 }
 
 #paragraph{
-    margin: 0 100px;
+    margin: 0 25px;
     -webkit-flex: 1;
     flex: 1;
 }
 
-hr{
-    font-size: 25px;
-}
-
 aside{
-    margin: 0 100px;
+    margin: 0 25px;
     -webkit-flex: 1;
     flex: 1;
 }
